@@ -32,3 +32,9 @@ body{
 .btn-carrito{
     width: 100%;
 }
+
+.img-reloj{
+    border-color: #ffffff;
+    border-style: solid;
+    border-radius: 5px;
+}
