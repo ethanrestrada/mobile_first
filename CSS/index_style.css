@@ -2,6 +2,10 @@
     font-family: 'Roboto Condensed', sans-serif;
 }
 
+body{
+    overflow-x: hidden;
+}
+
 .color-blanco{
     background: #fcf2d9;
 }
@@ -10,14 +14,8 @@
     background: #cfcccc;
 }
 
-.img-reloj{
-    border-color: 1px solid #000;
-}
-
 .watches{
     margin-top: 2em;
-    display: flex;
-    justify-content: center;
 }
 
 .desc-size{
@@ -27,6 +25,10 @@
 
 #watch{
     border-radius: 5px;
-    margin-bottom: 1em;
     text-align: center;
+    margin-bottom: 1em;
+}
+
+.btn-carrito{
+    width: 100%;
 }
